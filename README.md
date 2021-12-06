@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rozanalias
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning data analytic
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
