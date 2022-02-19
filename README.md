@@ -1,5 +1,5 @@
 - # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Rozan Alias and I am one of the data scientists of the future , I am from Egypt living in NYC , Currently working hard to develop my data scientist skills to get my dream job 👩‍🎓
+My name is Rozan Alias and I am data scientists , I am from Egypt living in NYC , Working hard to develop my data scientist skills to get my dream job 👩‍🎓
 
 You can find me on [![LinkedIn][2.2]][2].
 
