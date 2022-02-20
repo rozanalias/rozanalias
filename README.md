@@ -16,7 +16,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 
 
-- 👀 I’m interested in helping people and makeing them happy 🤗 
+- 👀 I’m interested in learning new things and to increase my knowledge 
 - 💞️ I’m looking to collaborate on data engineering for non profit organization 
 - 💬 Ask me about which countries I want to visit and I will never stop talking 😸
 - 🔥  my BIG DREAM as Egyptian women is to be the rock star of Data Science ✨
