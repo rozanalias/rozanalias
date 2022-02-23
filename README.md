@@ -1,5 +1,6 @@
 - # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Rozan Alias and I am data scientists , I am from Egypt living in NYC , Working hard to develop my data scientist skills to get my dream job 👩‍🎓
+My name is Rozan Alias 
+I am a passionate Data Scientist, Data Engineer, Data Analyst and data lover from Egypt and live in NYC  👩‍🎓
 
 You can find me on [![LinkedIn][2.2]][2].
 
@@ -18,8 +19,8 @@ You can find me on [![LinkedIn][2.2]][2].
 
 - 👀 I’m interested in learning new things and to increase my knowledge 
 - 💞️ I’m looking to collaborate on data engineering for non profit organization 
-- 💬 Ask me about which countries I want to visit and I will never stop talking 😸
-- 🔥  my BIG DREAM as Egyptian women is to be the rock star of Data Science ✨
+- 💬 Ask me about Egypt and I will never stop talking 😸
+- 🔥  my BIG DREAM is to be the rock star of Data Science ✨
 
 <!---
 rozanalias/rozanalias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
