@@ -28,7 +28,6 @@ You can find me on [![LinkedIn][2.2]][2].
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rozan-alias](https://www.linkedin.com/in/rozan-alias)
 
-- 💬 Ask me about **Egypt and I will not stop talking**
 
 - 👀 I’m interested in learning new things and to increase my knowledge 
  
