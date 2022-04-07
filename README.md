@@ -1,6 +1,7 @@
 - # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Rozan Alias 
-I am a passionate Data Scientist, Data Engineer, Data Analyst and data lover from Egypt and live in NYC  👩‍🎓
+<h1 align="center">Hi 👋, I'm Rozan Alias</h1>
+<h3 align="center">A passionate Data Scientist, Data Engineer, Data Analyst and data lover from Egypt and live in NYC </h3>
+
 
 You can find me on [![LinkedIn][2.2]][2].
 
@@ -17,8 +18,20 @@ You can find me on [![LinkedIn][2.2]][2].
 
 
 
+- 🔭 I’m currently working on **Data Engineering and Machine Learning**
+
+- 🌱 I’m currently learning **R**
+
+- 👯 I’m looking to collaborate on **Nonprofit Organizations**
+
+- 🤝 I’m looking for help with **Data Collection**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rozan-alias](https://www.linkedin.com/in/rozan-alias)
+
+- 💬 Ask me about **Egypt and I will not stop talking**
+
 - 👀 I’m interested in learning new things and to increase my knowledge 
-- 💞️ I’m looking to collaborate on data engineering for non profit organization 
+ 
 - 💬 Ask me about Egypt and I will never stop talking 😸
 - 🔥  Everyday my inspiration by data efficiency in our world increase ✨
 
