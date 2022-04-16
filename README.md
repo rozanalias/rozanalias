@@ -1,9 +1,9 @@
-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 <h1 align="center"> I'm Rozan Alias</h1>
 <h3 align="center">A passionate Data Scientist and Data lover from Egypt and live in NYC </h3>
 
 
-You can find me on [![LinkedIn][2.2]][2].
+
 
 <!-- Icons -->
 
